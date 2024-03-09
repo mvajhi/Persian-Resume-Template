@@ -1,5 +1,7 @@
 # Persian Resume Template
-
+<p align="center">
+  <img src="first_page.png"  style="width: 30vw;" />
+</p>
 This repository contains the Persian version of the LaTeX resume template "Awesome_CV" originally created by [posquit0](https://github.com/posquit0). The template is designed to create professional resumes using LaTeX.
 
 ### Usage
